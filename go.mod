@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/apex/log v1.9.0
 	github.com/hashicorp/vault/api v1.10.0
-	github.com/jessevdk/go-flags v1.5.0
+	github.com/jessevdk/go-flags v1.6.1
 	github.com/joho/godotenv v1.5.1
 	github.com/phayes/permbits v0.0.0-20190612203442-39d7c581d2ee
 	gopkg.in/mail.v2 v2.3.1
@@ -59,7 +59,7 @@ require (
 	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/net v0.19.0 // indirect
 	golang.org/x/oauth2 v0.7.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.21.0 // indirect
 	golang.org/x/term v0.15.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
